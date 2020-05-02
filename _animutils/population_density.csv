@@ -1,0 +1,1693 @@
+,Country,State,Population_Density
+0,Japan,Tokyo,38323.229
+1,India,Delhi,29347.622
+2,China,Shanghai,27137.316
+3,Brazil,São Paulo,22118.9
+4,India,Mumbai (Bombay),22838.483
+5,Mexico,Ciudad de México (Mexico City),21868.073
+6,China,Beijing,24201.465
+7,Japan,Kinki M.M.A. (Osaka),20523.393
+8,Egypt,Al-Qahirah (Cairo),20567.892
+9,United States of America,New York-Newark,18792.812
+10,Bangladesh,Dhaka,20988.559
+11,Pakistan,Karachi,19230.213
+12,Argentina,Buenos Aires,15894.307
+13,India,Kolkata (Calcutta),15726.145
+14,Turkey,Istanbul,15098.96
+15,China,Chongqing,15232.821
+16,Nigeria,Lagos,16167.824
+17,Philippines,Manila,13941.923
+18,Brazil,Rio de Janeiro,13326.122
+19,China,"Guangzhou, Guangdong",15174.267
+20,United States of America,Los Angeles-Long Beach-Santa Ana,12454.466
+21,Russian Federation,Moskva (Moscow),12474.096
+22,Democratic Republic of the Congo,Kinshasa,14117.629
+23,China,Tianjin,12816.126
+24,France,Paris,11271.387
+25,China,Shenzhen,11287.091
+26,Indonesia,Jakarta,11298.157
+27,United Kingdom,London,10849.187
+28,India,Bangalore,11836.8
+29,Peru,Lima,10755.82
+30,India,Chennai (Madras),11240.681
+31,Republic of Korea,Seoul,9818.22
+32,Colombia,Bogotá,10695.9
+33,Japan,Chukyo M.M.A. (Nagoya),9491.468
+34,South Africa,Johannesburg,10361.229
+35,Thailand,Krung Thep (Bangkok),10137.045
+36,India,Hyderabad,10278.704
+37,United States of America,Chicago,8871.239
+38,Pakistan,Lahore,10053.659
+39,Iran (Islamic Republic of),Tehran,8909.016
+40,China,Wuhan,8363.99
+41,China,Chengdu,8765.741
+42,China,Dongguan,7731.364
+43,China,"Nanjing, Jiangsu",8475.65
+44,India,Ahmadabad,8452.103
+45,"China, Hong Kong SAR",Hong Kong,7549.528
+46,Viet Nam,Thành Pho Ho Chí Minh (Ho Chi Minh City),8308.525
+47,China,Foshan,7399.346
+48,Malaysia,Kuala Lumpur,7843.634
+49,Iraq,Baghdad,7543.633
+50,Chile,Santiago,6706.769
+51,China,Hangzhou,7596.584
+52,Saudi Arabia,Ar-Riyadh (Riyadh),7133.007
+53,China,Shenyang,6932.333
+54,Spain,Madrid,6476.334
+55,China,"Xi'an, Shaanxi",6869.302
+56,Canada,Toronto,6406.527
+57,United States of America,Miami,6055.57
+58,India,Pune (Poona),6501.957
+59,Brazil,Belo Horizonte,5968.949
+60,United States of America,Dallas-Fort Worth,6130.007
+61,India,Surat,6826.73
+62,United States of America,Houston,6151.089
+63,Singapore,Singapore,6057.219
+64,United States of America,Philadelphia,5709.119
+65,Japan,Kitakyushu-Fukuoka M.M.A.,5447.359
+66,Angola,Luanda,6836.849
+67,China,"Suzhou, Jiangsu",6875.766
+68,China,Haerbin,5998.973
+69,Spain,Barcelona,5478.238
+70,United States of America,Atlanta,5606.852
+71,Sudan,Al-Khartum (Khartoum),5905.394
+72,United Republic of Tanzania,Dar es Salaam,6727.291
+73,Russian Federation,Sankt Peterburg (Saint Petersburg),5019.858
+74,United States of America,"Washington, D.C.",5229.911
+75,Côte d'Ivoire,Abidjan,5748.336
+76,Mexico,Guadalajara,5210.168
+77,Myanmar,Yangon,5358.256
+78,Egypt,Al-Iskandariyah (Alexandria),5225.281
+79,Turkey,Ankara,5208.169
+80,Afghanistan,Kabul,5721.697
+81,China,Qingdao,5138.911
+82,Bangladesh,Chittagong,5154.787
+83,Mexico,Monterrey,4874.957
+84,Australia,Sydney,4729.406
+85,China,Dalian,5073.094
+86,China,Xiamen,5799.767
+87,China,Zhengzhou,5085.55
+88,United States of America,Boston,4319.887
+89,Australia,Melbourne,4500.501
+90,Brazil,Brasília,4510.111
+91,Saudi Arabia,Jiddah,4475.063
+92,United States of America,Phoenix-Mesa,4385.778
+93,China,"Ji'nan, Shandong",4536.893
+94,Canada,Montréal,4158.292
+95,China,Shantou,4280.797
+96,Kenya,Nairobi,4792.114
+97,Colombia,Medellín,4210.269
+98,Brazil,Fortaleza,4169.191
+99,China,Kunming,4177.743
+100,China,Changchun,4129.638
+101,China,Changsha,4321.679
+102,Brazil,Recife,3892.825
+103,Italy,Roma (Rome),3796.048
+104,China,Zhongshan,4657.926
+105,South Africa,Cape Town,3859.5
+106,United States of America,Detroit,3606.425
+107,Viet Nam,Hà Noi,4388.572
+108,Israel,Tel Aviv-Yafo (Tel Aviv-Jaffa),3885.886
+109,Brazil,Pôrto Alegre,3718.877
+110,Nigeria,Kano,4172.318
+111,Brazil,Salvador,3780.413
+112,Pakistan,Faisalabad,4141.533
+113,Germany,Berlin,3626.094
+114,Syrian Arab Republic,Halab (Aleppo),4140.407
+115,Senegal,Dakar,4245.649
+116,Morocco,Dar-el-Beida (Casablanca),3735.965
+117,China,Ürümqi (Wulumqi),4135.158
+118,China,"Taiyuan, Shanxi",3824.428
+119,Brazil,Curitiba,3758.909
+120,India,Jaipur,3910.845
+121,Japan,Shizuoka-Hamamatsu M.M.A.,3845.903
+122,China,Hefei,3622.26
+123,United States of America,San Francisco-Oakland,3335.824
+124,China,"Fuzhou, Fujian",3738.637
+125,China,Shijiazhuang,3753.403
+126,United States of America,Seattle,3396.397
+127,Ethiopia,Addis Ababa,3777.553
+128,China,Nanning,3800.364
+129,India,Lucknow,3603.264
+130,Republic of Korea,Busan,3174.489
+131,China,Wenzhou,3722.281
+132,Nigeria,Ibadan,3695.757
+133,China,Ningbo,3673.68
+134,United States of America,San Diego,3227.666
+135,Italy,Milano (Milan),3123.967
+136,Cameroon,Yaoundé,3759.268
+137,Greece,Athínai (Athens),3062.042
+138,China,"Wuxi, Jiangsu",3353.548
+139,Brazil,Campinas,3253.997
+140,Turkey,Izmir,3275.283
+141,India,Kanpur,3203.555
+142,Iran (Islamic Republic of),Mashhad,3361.513
+143,Mexico,Puebla,3216.618
+144,Yemen,Sana'a',3643.26
+145,Dominican Republic,Santo Domingo,3320.574
+146,Cameroon,Douala,3502.73
+147,Ukraine,Kyiv (Kiev),3032.211
+148,Guatemala,Ciudad de Guatemala (Guatemala City),3364.218
+149,Venezuela (Bolivarian Republic of),Caracas,2993.83
+150,South Africa,Durban,2995.872
+151,Portugal,Lisboa (Lisbon),2994.603
+152,China,Guiyang,3224.6
+153,Dem. People's Republic of Korea,P'yongyang,2945.149
+154,Indonesia,Surabaya,3050.681
+155,United States of America,Minneapolis-St. Paul,2904.036
+156,Kuwait,Al Kuwayt (Kuwait City),3202.124
+157,China,"Tangshan, Hebei",3243.775
+158,Burkina Faso,Ouagadougou,3695.437
+159,China,Lanzhou,3016.503
+160,Ecuador,Guayaquil,2952.645
+161,Republic of Korea,Incheon,2798.018
+162,India,Nagpur,2912.472
+163,China,Taipei,2741.593
+164,United States of America,Tampa-St. Petersburg,2825.309
+165,Colombia,Cali,2830.202
+166,United Kingdom,Manchester,2757.915
+167,Madagascar,Antananarivo,3306.487
+168,United States of America,Denver-Aurora,2771.079
+169,Ghana,Kumasi,3180.392
+170,Algeria,El Djazaïr  (Algiers),2835.218
+171,China,"Changzhou, Jiangsu",2913.413
+172,Japan,Sapporo,2549.299
+173,Syrian Arab Republic,Dimashq (Damascus),2832.951
+174,India,Coimbatore,2993.568
+175,Indonesia,Bandung,2770.585
+176,China,Nanchang,2833.724
+177,Mali,Bamako,3269.763
+178,United Kingdom,Birmingham (West Midlands),2610.185
+179,Pakistan,Rawalpindi,2904.337
+180,Canada,Vancouver,2664.516
+181,India,Kozhikode (Calicut),2972.964
+182,Puerto Rico,San Juan,2457.472
+183,India,Indore,2760.029
+184,Nigeria,Abuja,3210.529
+185,Haiti,Port-au-Prince,2816.604
+186,China,Zibo,2621.427
+187,India,Kochi (Cochin),2758.703
+188,United Arab Emirates,Dubayy (Dubai),2862.232
+189,Azerbaijan,Baku,2629.468
+190,Paraguay,Asunción,2608.041
+191,Nigeria,Port Harcourt,3000.084
+192,India,Thrissur,2858.995
+193,China,Huizhou,2817.033
+194,Brazil,Goiânia,2476.864
+195,Ghana,Accra,2516.627
+196,United States of America,Las Vegas,2567.443
+197,United States of America,Baltimore,2326.181
+198,Uzbekistan,Tashkent,2362.341
+199,Republic of Korea,Daegu,2244.771
+200,Lebanon,Bayrut (Beirut),2252.142
+201,India,Malappuram,2799.288
+202,India,Patna,2420.974
+203,Indonesia,Medan,2384.821
+204,Australia,Brisbane,2388.517
+205,Italy,Napoli (Naples),2192.816
+206,Venezuela (Bolivarian Republic of),Maracaibo,2361.496
+207,China,Weifang,2541.603
+208,United States of America,Riverside-San Bernardino,2393.634
+209,United States of America,St. Louis,2223.24
+210,Brazil,Belém,2314.534
+211,Zambia,Lusaka,2760.935
+212,Japan,Hiroshima,2202.589
+213,Mexico,Toluca de Lerdo,2367.345
+214,India,Kannur,2728.67
+215,Somalia,Muqdisho (Mogadishu),2781.699
+216,Cuba,La Habana (Havana),2108.815
+217,Pakistan,Gujranwala,2486.702
+218,China,Yantai,2429.571
+219,Bolivia (Plurinational State of),Santa Cruz,2454.968
+220,India,Bhopal,2360.882
+221,Japan,Sendai,2021.513
+222,China,Shaoxing,2423.011
+223,South Africa,Pretoria,2352.447
+224,Belgium,Bruxelles-Brussel,2115.468
+225,United States of America,San Antonio,2237.727
+226,Brazil,Manaus,2218.02
+227,Democratic Republic of the Congo,Lubumbashi,2447.51
+228,China,Luoyang,2302.31
+229,Democratic Republic of the Congo,Mbuji-Mayi,2474.618
+230,United States of America,Portland,2118.534
+231,China,Huai'an,2481.933
+232,Tunisia,Tunis,2092.62
+233,Colombia,Barranquilla,2094.146
+234,Mexico,Tijuana,2194.634
+235,China,Nantong,2341.546
+236,India,Vadodara,2175.51
+237,Morocco,Rabat,2172.282
+238,India,Agra,2223.914
+239,India,Thiruvananthapuram,2278.844
+240,China,Baotou,2153.996
+241,Guinea,Conakry,2239.555
+242,Uganda,Kampala,2382.765
+243,India,Visakhapatnam,2178.073
+244,Turkey,Bursa,2150.751
+245,Pakistan,Multan,2188.827
+246,United States of America,Sacramento,2071.188
+247,China,Xuzhou,2110.485
+248,Belarus,Minsk,1953.396
+249,United Kingdom,West Yorkshire,2053.503
+250,China,Haikou,2287.44
+251,Congo,Brazzaville,2206.885
+252,Iran (Islamic Republic of),Esfahan,2054.223
+253,Romania,Bucuresti (Bucharest),1873.018
+254,Australia,Perth,2036.118
+255,Germany,Hamburg,1867.408
+256,Turkey,Adana,2049.457
+257,Bolivia (Plurinational State of),La Paz,1931.681
+258,Thailand,Samut Prakan,2558.16
+259,Iran (Islamic Republic of),Karaj,2054.373
+260,Mexico,León de los Aldamas,1983.07
+261,China,Hohhot,2070.751
+262,India,Nashik,2029.713
+263,United States of America,Cleveland,1783.861
+264,Pakistan,Hyderabad,1999.473
+265,Saudi Arabia,Makkah (Mecca),1911.82
+266,China,Yangzhou,1954.31
+267,Italy,Torino (Turin),1784.898
+268,India,Vijayawada,2062.511
+269,Austria,Wien (Vienna),1807.617
+270,Pakistan,Peshawar,2008.025
+271,Venezuela (Bolivarian Republic of),Valencia,1855.076
+272,Cambodia,Phnum Pénh (Phnom Penh),1978.642
+273,United States of America,Orlando,1899.619
+274,United States of America,San Jose,1787.262
+275,Ecuador,Quito,1875.359
+276,Poland,Warszawa (Warsaw),1751.231
+277,United States of America,Pittsburgh,1725.85
+278,India,Ludhiana,1859.57
+279,Hungary,Budapest,1727.76
+280,Uruguay,Montevideo,1754.993
+281,China,"Linyi, Shandong",1895.884
+282,Iraq,Al-Mawsil (Mosul),1975.501
+283,United States of America,Cincinnati,1743.215
+284,United States of America,Austin,1938.392
+285,Panama,Ciudad de Panamá (Panama City),1853.063
+286,Iran (Islamic Republic of),Shiraz,1914.516
+287,China,"Taizhou, Zhejiang",1872.617
+288,United States of America,Indianapolis,1767.952
+289,Syrian Arab Republic,Hims (Homs),1980.822
+290,Brazil,Grande Vitória,1731.67
+291,China,Handan,1950.206
+292,Indonesia,Semarang,1760.601
+293,Philippines,Davao City,1795.963
+294,China,Daqing,1813.744
+295,China,Liuzhou,1829.962
+296,United States of America,Charlotte,1911.694
+297,France,Lyon,1681.876
+298,France,Marseille-Aix-en-Provence,1669.488
+299,United States of America,Kansas City,1674.659
+300,India,Rajkot,1838.286
+301,China,Yinchuan,2048.695
+302,India,Madurai,1758.501
+303,China,Jiangmen,1683.836
+304,Iran (Islamic Republic of),Tabriz,1690.714
+305,Republic of Korea,Daejon,1627.016
+306,China,Anshan,1640.592
+307,India,Meerut,1709.74
+308,China,Zhuhai,1719.49
+309,India,Varanasi (Benares),1683.377
+310,Brazil,Baixada Santista,1608.513
+311,Republic of Korea,Gwangju,1598.62
+312,China,Xiangyang,1650.247
+313,China,Datong,1706.595
+314,Turkey,Gaziantep,1702.818
+315,China,Kaohsiung,1568.916
+316,Kazakhstan,Almaty,1585.335
+317,China,Jilin,1609.672
+318,Argentina,Córdoba,1562.509
+319,United States of America,"Columbus, Ohio",1611.667
+320,Zimbabwe,Harare,1598.054
+321,Russian Federation,Novosibirsk,1504.074
+322,Nigeria,Benin City,1781.089
+323,Indonesia,Makassar (Ujung Pandang),1676.218
+324,Sweden,Stockholm,1589.207
+325,United States of America,Virginia Beach,1486.586
+326,Indonesia,Palembang,1527.397
+327,China,Qiqihaer,1555.93
+328,India,Jamshedpur,1597.689
+329,Ukraine,Kharkiv,1425.777
+330,Germany,München (Munich),1502.426
+331,China,Putian,1771.096
+332,Brazil,Grande São Luís,1547.47
+333,China,"Yancheng, Jiangsu",1735.195
+334,India,Srinagar,1612.363
+335,China,"Wuhu, Anhui",1742.917
+336,India,Kollam,1746.726
+337,United States of America,Milwaukee,1443.719
+338,China,Quanzhou,1635.081
+339,Indonesia,Batam,1896.066
+340,Mexico,Ciudad Juárez,1457.361
+341,China,"Jining, Shandong",1488.763
+342,Argentina,Rosario,1453.814
+343,Russian Federation,Yekaterinburg,1391.261
+344,Mongolia,Ulaanbaatar,1579.182
+345,India,Raipur,1655.719
+346,Pakistan,Islamabad,1698.802
+347,New Zealand,Auckland,1426.07
+348,India,Aurangabad,1525.863
+349,Canada,Calgary,1463.528
+350,India,Jabalpur,1439.979
+351,China,Chaozhou,1426.533
+352,Mexico,Torreón,1440.755
+353,China,Huainan,1430.716
+354,Canada,Ottawa-Gatineau,1421.851
+355,China,Xining,1495.021
+356,Czech Republic,Praha (Prague),1364.392
+357,India,Asansol,1417.377
+358,China,Cixi,1545.555
+359,China,Hengyang,1487.814
+360,Portugal,Porto,1339.382
+361,China,"Fushun, Liaoning",1318.799
+362,India,Allahabad,1404.837
+363,India,Jodhpur,1456.18
+364,Saudi Arabia,Al-Madinah (Medina),1390.879
+365,United Arab Emirates,Sharjah,1542.386
+366,Canada,Edmonton,1388.625
+367,Angola,Huambo,1641.65
+368,Denmark,København (Copenhagen),1332.94
+369,Mexico,Querétaro,1417.184
+370,Brazil,Maceió,1359.755
+371,India,Amritsar,1376.703
+372,Liberia,Monrovia,1486.461
+373,China,Yichang,1477.608
+374,India,Ranchi,1422.965
+375,Chad,N'Djaména,1535.423
+376,Rwanda,Kigali,1484.049
+377,Australia,Adelaide,1320.783
+378,India,Dhanbad,1347.604
+379,Switzerland,Zürich (Zurich),1323.169
+380,Bolivia (Plurinational State of),Cochabamba,1400.728
+381,Syrian Arab Republic,Hamah,1580.887
+382,India,Tiruppur,1531.645
+383,Bulgaria,Sofia,1240.977
+384,China,Taichung,1318.416
+385,United Kingdom,Glasgow,1254.287
+386,India,Gwalior,1365.193
+387,China,"Taian, Shandong",1326.342
+388,Brazil,Joinville,1306.963
+389,Iran (Islamic Republic of),Ahvaz,1354.955
+390,Colombia,Bucaramanga,1315.087
+391,Russian Federation,Nizhniy Novgorod,1156.983
+392,Iran (Islamic Republic of),Qom,1347.921
+393,United States of America,Providence,1211.875
+394,Turkey,Konya,1337.447
+395,Mozambique,Maputo,1311.11
+396,China,"Taizhou, Jiangsu",1319.113
+397,Nepal,Kathmandu,1394.561
+398,Serbia,Beograd (Belgrade),1185.117
+399,Brazil,Florianópolis,1321.405
+400,Finland,Helsinki,1226.244
+401,South Africa,Port Elizabeth,1226.487
+402,Viet Nam,Can Tho,1486.478
+403,Morocco,Fès,1305.162
+404,United States of America,"Jacksonville, Florida",1255.877
+405,Costa Rica,San José,1259.339
+406,Ireland,Dublin,1259.684
+407,Democratic Republic of the Congo,Kananga,1433.73
+408,Myanmar,Mandalay,1323.289
+409,Brazil,Natal,1258.761
+410,Venezuela (Bolivarian Republic of),Maracay,1265.803
+411,Iraq,Irbil (Erbil),1347.874
+412,Russian Federation,Samara,1157.86
+413,India,Kota,1347.802
+414,Russian Federation,Kazan,1169.048
+415,Russian Federation,Omsk,1161.017
+416,Russian Federation,Chelyabinsk,1170.198
+417,South Africa,Vereeniging,1207.638
+418,Jordan,Amman,1162.115
+419,China,Zhanjiang,1266.351
+420,Georgia,Tbilisi,1137.159
+421,Mexico,San Luis Potosí,1246.397
+422,United Arab Emirates,Abu Zaby (Abu Dhabi),1322.894
+423,China,Anyang,1372.968
+424,United States of America,Raleigh,1346.714
+425,India,Chandigarh,1267.359
+426,Morocco,Marrakech,1305.505
+427,India,Durg-Bhilainagar,1223.237
+428,Libya,Tarabulus (Tripoli),1167.268
+429,Honduras,Tegucigalpa,1253.981
+430,Indonesia,Pekan Baru,1353.661
+431,India,Bareilly,1264.083
+432,Nigeria,Onitsha,1410.668
+433,China,Qinhuangdao,1253.175
+434,Pakistan,Quetta,1311.953
+435,Indonesia,Denpasar,1438.493
+436,United States of America,Memphis,1147.188
+437,India,Tiruchirappalli,1215.728
+438,China,Baoding,1187.346
+439,United States of America,Nashville-Davidson,1211.275
+440,Kenya,Mombasa,1325.513
+441,China,Lianyungang,1301.13
+442,Republic of Korea,Suweon,1132.181
+443,El Salvador,San Salvador,1128.749
+444,Israel,Hefa (Haifa),1153.881
+445,Russian Federation,Rostov-na-Donu (Rostov-on-Don),1095.99
+446,United States of America,Salt Lake City,1156.281
+447,Brazil,João Pessoa,1168.777
+448,Colombia,Cartagena,1193.448
+449,Netherlands,Amsterdam,1139.606
+450,Niger,Niamey,1323.612
+451,China,Zhuzhou,1176.774
+452,India,Mysore,1204.208
+453,China,Yiwu,1281.988
+454,Indonesia,Bogor,1221.093
+455,Viet Nam,Hai Phòng,1248.736
+456,Turkey,Antalya,1196.718
+457,China,Benxi,1152.759
+458,Russian Federation,Ufa,1070.322
+459,Mexico,Mérida,1156.3
+460,China,"Mianyang, Sichuan",1169.95
+461,Saudi Arabia,Ad-Dammam,1165.94
+462,China,Rizhao,1223.089
+463,China,"Zhenjiang, Jiangsu",1155.991
+464,China,Suqian,1323.003
+465,China,Nanchong,1209.797
+466,Nigeria,Kaduna,1181.004
+467,Republic of Korea,Yongin,1221.417
+468,Armenia,Yerevan,1023.703
+469,India,Guwahati (Gauhati),1140.298
+470,China,Guilin,1126.568
+471,Democratic Republic of the Congo,Kisangani,1251.932
+472,Republic of Korea,Changwon,1038.627
+473,Venezuela (Bolivarian Republic of),Barquisimeto,1080.869
+474,India,Aligarh,1186.184
+475,Germany,Köln (Cologne),1061.103
+476,China,Jinzhou,1131.919
+477,Mexico,Mexicali,1124.329
+478,United States of America,Louisville,1081.659
+479,Mexico,Aguascalientes,1122.995
+480,Myanmar,Nay Pyi Taw,1126.316
+481,United States of America,Richmond,1090.918
+482,China,Zaozhuang,1091.567
+483,France,Lille,1055.958
+484,China,Yingkou,1172.759
+485,India,Moradabad,1176.757
+486,Russian Federation,Volgograd,1018.319
+487,Bangladesh,Khulna,1038.96
+488,India,Hubli-Dharwad,1119.548
+489,Iraq,Al-Basrah (Basra),1144.257
+490,China,Chifeng,1138.245
+491,China,"Nanyang, Henan",1127.32
+492,Ukraine,Odesa,1014.705
+493,China,"Xiangtan, Hunan",1120.92
+494,Argentina,Mendoza,1063.64
+495,Russian Federation,Krasnoyarsk,1027.907
+496,Sierra Leone,Freetown,1130.449
+497,China,Puning,1137.113
+498,Iraq,Sulaimaniya,1190.576
+499,India,Salem,1108.779
+500,China,Baoji,1131.468
+501,India,Bhubaneswar,1137.139
+502,Lao People's Democratic Republic,Vientiane,1270.509
+503,China,"Pingdingshan, Henan",1126.479
+504,Belgium,Antwerpen,1016.258
+505,Netherlands,Rotterdam,1015.178
+506,Mexico,Cuernavaca,1060.913
+507,China,Xinxiang,1073.616
+508,Norway,Oslo,1065.611
+509,India,Solapur,1048.555
+510,China,Zhangjiakou,1054.828
+511,Russian Federation,Perm,960.55
+512,Morocco,Tanger,1149.441
+513,China,Huaibei,1109.139
+514,China,Ruian,1123.621
+515,China,Jiaxing,1179.267
+516,China,Jinhua,1238.617
+517,Congo,Pointe-Noire,1126.522
+518,Republic of Korea,Seongnam,994.162
+519,Mauritania,Nouakchott,1091.227
+520,China,Dongying,1088.566
+521,France,Nice-Cannes,1005.048
+522,Indonesia,Bandar Lampung,1073.244
+523,China,"Jingzhou, Hubei",1035.707
+524,United States of America,Hartford,997.863
+525,China,Yueyang,1015.851
+526,Brazil,Teresina,1011.364
+527,China,Tengzhou,1130.376
+528,Ukraine,Dnipropetrovsk,910.051
+529,Togo,Lomé,1123.687
+530,Nicaragua,Managua,1013.548
+531,India,Jalandhar,1056.609
+532,Viet Nam,Da Nang,1089.352
+533,Philippines,Cebu City,1033.018
+534,Nigeria,Aba,1118.388
+535,Republic of Korea,Goyang,982.149
+536,Mexico,Chihuahua,1022.594
+537,United States of America,Bridgeport-Stamford,959.477
+538,France,Toulouse,999.751
+539,Mozambique,Matola,1148.024
+540,Philippines,Zamboanga City,1052.776
+541,Ukraine,Donetsk,901.929
+542,Mexico,Saltillo,1030.953
+543,Turkey,Diyarbakir,988.013
+544,United States of America,Oklahoma City,977.861
+545,China,"Suzhou, Anhui",1104.346
+546,United States of America,New Orleans,944.906
+547,Mexico,Tampico,981.415
+548,Mexico,Morelia,993.618
+549,Pakistan,Bahawalpur,1108.09
+550,United States of America,Buffalo,908.682
+551,United States of America,Tucson,969.04
+552,Malaysia,Johor Bahru,1021.962
+553,Russian Federation,Voronezh,922.216
+554,Argentina,San Miguel de Tucumán,967.366
+555,China,Jieyang,1084.045
+556,Chile,Valparaíso,940.783
+557,Malawi,Lilongwe,1123.703
+558,Turkey,Kayseri,974.795
+559,Republic of Korea,Ulsan,923.428
+560,Indonesia,Padang,998.001
+561,Mexico,Acapulco de Juárez,944.116
+562,Iran (Islamic Republic of),Kermanshah,966.286
+563,China,Fuyang,1007.783
+564,France,Bordeaux,943.921
+565,China,"Jixi, Heilongjiang",950.387
+566,Iraq,Najaf,1042.243
+567,United Kingdom,Southampton/Portsmouth (South Hampshire),918.84
+568,Yemen,Adan (Aden),1037.075
+569,Mexico,Veracruz,945.511
+570,China,Liuan,1102.013
+571,United States of America,El Paso,936.184
+572,China,Wenling,1001.438
+573,Republic of Korea,Bucheon,896.552
+574,United Kingdom,Liverpool,890.487
+575,China,Yueqing,1014.609
+576,Kyrgyzstan,Bishkek,929.178
+577,Indonesia,Samarinda,1013.484
+578,United States of America,McAllen,970.363
+579,China,Ma'anshan,983.853
+580,Algeria,Wahran (Oran),928.664
+581,Nigeria,Ilorin,993.354
+582,Indonesia,Malang,923.93
+583,China,Huzhou,962.311
+584,Turkey,Mersin,953.878
+585,India,Warangal,965.596
+586,Italy,Palermo,854.897
+587,Mexico,Reynosa,964.01
+588,Honduras,San Pedro Sula,1000.555
+589,Colombia,Cúcuta,911.654
+590,China,Mudanjiang,920.328
+591,Peru,Arequipa,913.546
+592,India,Saharanpur,1012.681
+593,United States of America,Honolulu,887.069
+594,Nigeria,Uyo,1113.665
+595,Argentina,La Plata,901.074
+596,China,Weihai,991.776
+597,Mexico,Cancún,993.405
+598,Mexico,Villahermosa,926.408
+599,Bangladesh,Rajshahi,942.764
+600,China,Bengbu,901.458
+601,Brazil,Campo Grande,897.269
+602,Italy,Bergamo,877.06
+603,Israel,Jerusalem,900.336
+604,Oman,Masqat (Muscat),972.108
+605,United Republic of Tanzania,Mwanza,1116.439
+606,Viet Nam,Bien Hoa,971.95
+607,Democratic Republic of the Congo,Bukavu,1046.715
+608,India,Siliguri,979.926
+609,China,Shiyan,939.72
+610,United States of America,Albuquerque,894.331
+611,Brazil,Aracaju,891.988
+612,Tajikistan,Dushanbe,947.615
+613,China,Dandong,877.69
+614,China,Liuyang,1059.743
+615,Chile,Concepción,867.064
+616,China,Tainan,858.796
+617,Russian Federation,Saratov,780.541
+618,India,Dehradun,927.171
+619,China,Leshan,944.952
+620,China,Pizhou,992.259
+621,China,"Pingxiang, Jiangxi",907.357
+622,Nigeria,Jos,937.239
+623,Spain,Valencia,831.253
+624,China,Liupanshui,1000.399
+625,Malawi,Blantyre-Limbe,956.73
+626,Russian Federation,Krasnodar,850.347
+627,Canada,Québec,851.194
+628,China,Kaifeng,888.349
+629,Mexico,Hermosillo,885.145
+630,Eritrea,Asmara,988.91
+631,China,Zunyi,894.291
+632,China,Ganzhou,1002.549
+633,Brazil,Londrina,854.396
+634,Peru,Trujillo,872.091
+635,United States of America,Birmingham,836.207
+636,Central African Republic,Bangui,876.101
+637,India,Bhiwandi,867.325
+638,Argentina,Santa Fe,878.622
+639,United Kingdom,Newcastle upon Tyne,817.369
+640,China,Fuxin,841.262
+641,China,Liaoyang,851.806
+642,Indonesia,Tasikmalaya,1003.947
+643,China,Xintai,902.556
+644,Italy,Bologna,801.557
+645,Syrian Arab Republic,Lattakia,924.099
+646,United States of America,Omaha,825.573
+647,Mexico,Tuxtla Gutierrez,865.432
+648,China,Luzhou,826.319
+649,Republic of Korea,Ansan,821.553
+650,South Africa,Soshanguve,817.793
+651,China,Laiwu,879.819
+652,China,Luohe,974.545
+653,Nigeria,Nnewi,1023.871
+654,Mexico,Culiacán,839.657
+655,Côte d'Ivoire,Bouake,892.8
+656,China,Guigang,864.236
+657,Somalia,Hargeysa,878.963
+658,Poland,Kraków (Cracow),769.043
+659,Canada,Winnipeg,796.17
+660,Kazakhstan,Astana,835.345
+661,Benin,Abomey-Calavi,994.949
+662,India,Guntur,853.672
+663,United Kingdom,Nottingham,788.773
+664,Ukraine,Zaporizhzhya,730.273
+665,China,Huangshi,820.679
+666,Burundi,Bujumbura,1009.235
+667,Kazakhstan,Shimkent,820.95
+668,Turkmenistan,Ashgabat,804.478
+669,Libya,Banghazi,808.061
+670,Canada,Hamilton,775.153
+671,Saudi Arabia,Hufuf-Mubarraz,791.258
+672,China,Xingtai,818.441
+673,China,Shaoguan,771.931
+674,China,Chenzhou,899.435
+675,China,Changzhi,827.0
+676,Iran (Islamic Republic of),Orumiyeh,830.373
+677,Malaysia,Ipoh,817.019
+678,Greece,Thessaloniki,735.769
+679,Syrian Arab Republic,Al-Raqqa,973.469
+680,Ukraine,Lvov,739.102
+681,China,Yibin,804.332
+682,United States of America,Dayton,747.245
+683,United States of America,Rochester,748.698
+684,China,Jiaozuo,773.867
+685,China,Haicheng,785.685
+686,India,Puducherry,821.606
+687,Mexico,Xalapa,787.863
+688,Russian Federation,Tolyatti,730.394
+689,Nigeria,Maiduguri,829.557
+690,Brazil,Sorocaba,775.091
+691,China,Zhangzhou,838.442
+692,China,Changshu,880.487
+693,Republic of Moldova,Chişinău,744.227
+694,China,Tianmen,836.463
+695,India,Gorakhpur,774.086
+696,Burkina Faso,Bobo-Dioulasso,889.703
+697,Qatar,Ad-Dawhah (Doha),764.47
+698,China,Zhucheng,847.208
+699,Morocco,Meknès,816.22
+700,Nigeria,Owerri,883.61
+701,Pakistan,Sargodha,811.233
+702,Germany,Frankfurt am Main,742.907
+703,Tunisia,Safaqis,792.579
+704,Sudan,Nyala,897.227
+705,United States of America,Allentown-Bethlehem,754.862
+706,China,Changde,807.121
+707,United States of America,Fresno,757.918
+708,Ghana,Sekondi Takoradi,889.861
+709,United States of America,Tulsa,755.822
+710,Venezuela (Bolivarian Republic of),Barcelona-Puerto La Cruz,774.311
+711,China,Shangqiu,803.404
+712,Iran (Islamic Republic of),Rasht,799.759
+713,Gabon,Libreville,776.588
+714,Sri Lanka,Colombo,729.661
+715,Nigeria,Ikorodu,922.316
+716,India,Bikaner,780.311
+717,United Kingdom,Sheffield,735.018
+718,Turkey,Eskisehir,773.518
+719,China,Huludao,767.971
+720,Poland,Łódź,687.037
+721,Nigeria,Zaria,777.792
+722,China,Xinyang,781.389
+723,Spain,Sevilla,707.862
+724,Italy,Florence,708.713
+725,Spain,Zaragoza,725.687
+726,China,Yangquan,778.523
+727,China,Linfen,826.348
+728,China,Zigong,740.645
+729,India,Firozabad,803.121
+730,Venezuela (Bolivarian Republic of),Ciudad Guayana,734.288
+731,Yemen,Ta'izz,815.818
+732,India,Amravati,756.417
+733,China,Panjin,733.74
+734,Republic of Korea,Cheongju,721.102
+735,China,Binzhou,804.92
+736,China,Qingyuan,737.208
+737,Italy,Genova (Genoa),686.562
+738,China,Xinyu,815.893
+739,India,Cuttack,742.96
+740,United States of America,Sarasota-Bradenton,729.13
+741,Democratic Republic of the Congo,Tshikapa,883.998
+742,Philippines,Cagayan de Oro City,767.434
+743,Iraq,Karbala,825.774
+744,Croatia,Zagreb,697.173
+745,China,Jiangyin,804.621
+746,China,Chengde,826.87
+747,Benin,Cotonou,726.404
+748,China,Jiujiang,757.292
+749,China,Zhuji,761.318
+750,Indonesia,Banjarmasin,757.12
+751,Ukraine,Krivoi Rog,687.336
+752,Nigeria,Enugu,801.75
+753,China,"Xianyang, Shaanxi",719.439
+754,China,Bazhong,892.411
+755,China,Liaocheng,752.433
+756,United States of America,Cape Coral,797.389
+757,Qatar,Ar-Rayyan,830.902
+758,Republic of Korea,Jeonju,703.98
+759,Libya,Misratah,815.76
+760,China,Guiping,838.924
+761,Bangladesh,Sylhet,836.855
+762,India,Jammu,710.781
+763,China,Xiaogan,760.692
+764,Egypt,Bur Sa'id,733.803
+765,China,Xinghua,765.301
+766,China,Jiamusi,716.109
+767,Mexico,Oaxaca de Juárez,724.477
+768,India,Malegaon,771.596
+769,China,Panzhihua,708.91
+770,United States of America,Baton Rouge,718.113
+771,Nigeria,Warri,850.057
+772,Mexico,Celaya,717.273
+773,India,Belgaum,726.397
+774,Belgium,Liège,671.152
+775,India,Mangalore,712.323
+776,Italy,Padova,676.89
+777,Indonesia,Balikpapan,762.738
+778,Brazil,Ribeirão  Preto,696.418
+779,United States of America,Concord,680.021
+780,Iraq,Kirkuk,723.899
+781,India,Nellore,748.954
+782,Netherlands,s-Gravenhage (The Hague),676.097
+783,Mozambique,Nampula,791.762
+784,Nigeria,Oshogbo,748.663
+785,Argentina,Mar Del Plata,686.546
+786,China,Yongzhou,757.375
+787,United Kingdom,Bristol,685.264
+788,India,Bhavnagar,706.412
+789,Zimbabwe,Bulawayo,675.19
+790,United States of America,Knoxville,716.237
+791,United States of America,"Springfield, Massachusett, Connecticut",669.542
+792,China,Tianshui,744.388
+793,China,"Yichun, Heilongjiang",628.07
+794,China,"Yichun, Jiangxi",832.565
+795,Russian Federation,Makhachkala,692.611
+796,China,Anqing,712.591
+797,Brazil,Uberlândia,686.261
+798,China,Taixing,725.292
+799,China,Baishan,771.509
+800,China,Shaoyang,702.609
+801,China,Leiyang,799.025
+802,China,Ezhou,672.294
+803,China,Jimo,705.555
+804,Saudi Arabia,Taif,658.443
+805,Dem. People's Republic of Korea,Chongjin,655.008
+806,United States of America,"Columbia, South Carolina",694.367
+807,Italy,Busto Arsizio,648.921
+808,China,Deyang,728.377
+809,Italy,Venezia,636.979
+810,Poland,Wrocław,630.598
+811,China,Zhaoqing,696.014
+812,United States of America,Ogden-Layton,689.275
+813,United States of America,Charleston-North Charleston,687.227
+814,Russian Federation,Tyumen,655.755
+815,Germany,Stuttgart,641.537
+816,State of Palestine,Gaza (incl. Ash Shati Camp),718.769
+817,India,Durgapur,680.938
+818,Russian Federation,Izhevsk,609.855
+819,China,Langfang,713.82
+820,Latvia,Riga,579.936
+821,Brazil,Jundiaí,666.5
+822,United States of America,Temecula-Murrieta,771.652
+823,India,Jamnagar,655.911
+824,Italy,Bari,623.815
+825,China,Hegang,646.442
+826,China,"Suining, Sichuan",686.058
+827,Philippines,General Santos City,687.374
+828,Russian Federation,Barnaul,615.656
+829,United States of America,Colorado Springs,657.411
+830,France,Nantes,643.115
+831,United States of America,Provo-Orem,719.259
+832,United States of America,Albany,631.902
+833,China,Neijiang,649.531
+834,Colombia,Ibagué,670.98
+835,China,Tongliao,686.08
+836,India,Nanded Waghala,685.264
+837,United States of America,Mission Viejo,634.935
+838,Turkey,Gebze,683.84
+839,China,Maoming,709.994
+840,Italy,Verona,624.268
+841,United Kingdom,Belfast,622.847
+842,United States of America,Bakersfield,668.487
+843,Indonesia,Jambi,688.051
+844,China,Wuzhou,679.387
+845,Indonesia,Pontianak,668.68
+846,China,Liling,761.887
+847,Germany,Duesseldorf,616.975
+848,Japan,Kumamoto,617.002
+849,Russian Federation,Ulyanovsk,578.495
+850,China,Danyang,696.878
+851,Colombia,Pereira,621.24
+852,China,Dezhou,669.331
+853,Mexico,Pachuca de Soto,671.708
+854,China,Yuyao,665.097
+855,Peru,Chiclayo,644.777
+856,Pakistan,Larkana,720.396
+857,China,Linhai,689.449
+858,Syrian Arab Republic,Tartus,784.475
+859,Republic of Korea,Anyang,599.206
+860,Israel,Be'er Sheva,636.701
+861,India,Gulbarga,660.117
+862,India,Bokaro Steel City,639.766
+863,India,Cherthala,748.897
+864,India,Kolhapur,636.93
+865,China,Zhoushan,645.072
+866,Morocco,Agadir,592.012
+867,India,Jhansi,646.181
+868,China,Huaihua,709.021
+869,Russian Federation,Vladivostok,586.964
+870,India,Erode,670.497
+871,Zambia,Kitwe,712.866
+872,China,Erduosi (Ordoss),680.437
+873,Australia,Gold Coast,663.21
+874,China,Yanji,672.506
+875,China,Bozhou,701.939
+876,Italy,Seregno,611.656
+877,Jamaica,Kingston,605.226
+878,India,Muzaffarnagar,692.097
+879,Japan,Niigata,589.279
+880,China,Jincheng,696.219
+881,Brazil,Cuiabá,618.699
+882,Sweden,Göteborg,621.187
+883,Mexico,Durango,646.889
+884,United States of America,Grand Rapids,601.944
+885,India,Raurkela,632.147
+886,"China, Macao SAR",Macao,626.47
+887,Egypt,As-Suways,636.58
+888,Russian Federation,Irkutsk,569.493
+889,Italy,Catania,587.408
+890,China,Kunshan ,696.82
+891,Saudi Arabia,Tabuk,620.611
+892,Nigeria,Umuahia,759.928
+893,India,Ajmer,623.276
+894,Pakistan,Sialkot,641.942
+895,Argentina,Salta,616.883
+896,United States of America,New Haven,595.464
+897,Dominican Republic,Santiago,622.506
+898,China,"Yulin, Guangxi",615.388
+899,Iraq,Nasiriyah,671.935
+900,Russian Federation,Yaroslavl,554.709
+901,Germany,Dortmund,576.834
+902,France,Toulon,601.796
+903,Dem. People's Republic of Korea,Hamhung,572.591
+904,China,Heze,603.375
+905,China,Dongtai,660.215
+906,China,Hanchuan,679.504
+907,Spain,Malaga,589.095
+908,China,Gaomi,679.788
+909,Pakistan,Sukkur,662.003
+910,Russian Federation,Khabarovsk,559.548
+911,Brazil,São José dos Campos,593.487
+912,China,Zhangqiu,661.224
+913,United Republic of Tanzania,Zanzibar,720.894
+914,China,Xiantao,596.467
+915,Yemen,Al-Hudaydah,653.085
+916,China,Kuerle,714.712
+917,China,Dazhou,656.432
+918,United States of America,Akron,573.344
+919,India,Kurnool,668.235
+920,Germany,Essen,564.179
+921,Turkey,Samsun,629.368
+922,China,Qujing,662.408
+923,Bangladesh,Bogra,741.295
+924,Iran (Islamic Republic of),Hamadan,616.735
+925,China,Zhumadian,674.629
+926,Malaysia,Kuching,616.806
+927,Saudi Arabia,Buraydah,620.186
+928,China,Quzhou,699.916
+929,China,Wuhai,619.737
+930,Philippines,Bacolod,606.02
+931,Venezuela (Bolivarian Republic of),Maturin,641.847
+932,Turkey,Denizli,612.458
+933,Switzerland,Genève,596.962
+934,Syrian Arab Republic,Al-Hasakah,742.513
+935,China,Qinzhou,628.121
+936,China,"Fuzhou, Jiangxi",633.221
+937,Iran (Islamic Republic of),Zahedan,569.957
+938,Nigeria,Akure,678.28
+939,India,Ujjain,610.07
+940,Turkey,Sanliurfa,607.958
+941,Brazil,Feira De Santana,590.668
+942,Nigeria,Sokoto,660.246
+943,Colombia,Villavicencio,636.347
+944,Mexico,Tlaxcala,599.692
+945,Germany,Leipzig,573.304
+946,India,Agartala,725.631
+947,India,Tirupati,652.131
+948,Germany,Dresden,573.105
+949,Iran (Islamic Republic of),Kerman,581.064
+950,Germany,Bremen,553.711
+951,China,Siping,591.864
+952,Russian Federation,Orenburg,536.648
+953,Russian Federation,Tomsk,558.97
+954,Poland,Poznań,540.838
+955,India,Sangali,589.883
+956,Russian Federation,Novokuznetsk,534.19
+957,China,Zhoukou,626.439
+958,China,Yangjiang,590.811
+959,Brazil,Juiz De Fora,570.517
+960,China,Sanya,628.065
+961,Mexico,Poza Rica de Hidalgo,565.623
+962,China,Qitaihe,578.047
+963,Iran (Islamic Republic of),Ardabil,607.675
+964,United Kingdom,Leicester,567.96
+965,China,Yuncheng,638.893
+966,Russian Federation,Kemerovo,531.408
+967,India,Kayamkulam,652.41
+968,Germany,Hannover,542.932
+969,India,Tirunelveli,575.893
+970,Iran (Islamic Republic of),Yazd,590.965
+971,India,Mathura,614.548
+972,China,Taicang,623.417
+973,China,Haimen,605.469
+974,Djibouti,Djibouti,564.075
+975,India,Vellore,586.898
+976,Pakistan,Sheikhupura,623.478
+977,Mexico,Matamoros,566.636
+978,Russian Federation,Astrakhan,529.889
+979,China,Cangzhou,562.352
+980,Thailand,Udon Thani,640.525
+981,Russian Federation,Ryazan,523.625
+982,China,Dengzhou,633.193
+983,China,Puyang,607.199
+984,Uzbekistan,Namangan,579.694
+985,China,Fuqing,575.891
+986,China,Shishi,576.262
+987,China,Tonghua,570.481
+988,China,Renqiu,611.201
+989,China,Loudi,615.745
+990,China,Miluo,748.473
+991,China,Zhangjiagang,620.674
+992,China,Hsinchu,566.35
+993,China,Hebi,564.708
+994,Thailand,Chon Buri,654.667
+995,India,Bilaspur,594.225
+996,Myanmar,Bago,615.256
+997,India,Imphal,634.666
+998,Colombia,Santa Marta,573.127
+999,United States of America,Worcester,544.403
+1000,Germany,Nurenberg,527.26
+1001,India,Udaipur,571.231
+1002,Russian Federation,Tula,526.853
+1003,Lithuania,Vilnius,508.088
+1004,China,Xuchang,569.652
+1005,Russian Federation,Penza,505.763
+1006,India,Thoothukkudi (Tuticorin),631.246
+1007,Iran (Islamic Republic of),Arak,559.227
+1008,China,Bijie,606.88
+1009,Russian Federation,Naberezhnye Tchelny,512.002
+1010,China,Longhai,602.111
+1011,China,Jinzhong,582.049
+1012,Somalia,Merca,592.234
+1013,India,Rajahmundry,557.307
+1014,Morocco,Tétouan,614.19
+1015,India,Patiala,586.099
+1016,China,Fuyang,604.14
+1017,Egypt,Al-Mansurah,554.984
+1018,Russian Federation,Lipetsk,507.441
+1019,United States of America,Toledo,515.75
+1020,China,Feicheng,549.096
+1021,Switzerland,Basel,530.308
+1022,India,Gaya,556.963
+1023,Iraq,Hillah,595.198
+1024,China,Daye,566.294
+1025,China,Shouguang,543.946
+1026,India,Jalgaon,563.413
+1027,China,Chaoyang,541.717
+1028,China,Dongyang,557.658
+1029,China,Zengcheng,575.95
+1030,Indonesia,Surakarta,533.437
+1031,France,Douai-Lens,513.442
+1032,Gambia,Banjul,591.493
+1033,France,Grenoble,520.01
+1034,South Africa,Bloemfontein,539.843
+1035,TFYR Macedonia,Skopje,509.923
+1036,Japan,Okayama,519.332
+1037,China,Tongchuan,543.475
+1038,United States of America,Wichita,524.449
+1039,Zambia,Ndola,578.115
+1040,Canada,Kitchener,525.781
+1041,China,Tongxiang,595.095
+1042,Argentina,San Juan,523.714
+1043,Brazil,Vale do Aço,520.191
+1044,United States of America,Des Moines,534.654
+1045,United Kingdom,Brighton-Worthing-Littlehampton,515.058
+1046,Nigeria,Bauchi,607.771
+1047,Kazakhstan,Karaganda,508.751
+1048,China,Zaoyang,551.741
+1049,Morocco,Oujda,551.51
+1050,South Africa,Pietermaritzburg,513.216
+1051,United Kingdom,Edinburgh,514.405
+1052,Nigeria,Abeokuta,562.795
+1053,Democratic Republic of the Congo,Likasi,574.458
+1054,Bangladesh,Comilla,590.713
+1055,United States of America,Harrisburg,531.845
+1056,China,Anqiu,625.607
+1057,Guinea-Bissau,Bissau,595.568
+1058,Ukraine,Nikolaev,482.814
+1059,China,Shuangyashan,511.399
+1060,Japan,Kagoshima,491.309
+1061,China,Tongling,543.866
+1062,Canada,London,508.571
+1063,Saudi Arabia,Jubayl,609.396
+1064,Egypt,Al-Mahallah al-Kubra,522.05
+1065,Republic of Korea,Cheonan,542.247
+1066,Myanmar,Mawlamyine,553.184
+1067,China,Ankang,594.832
+1068,China,Songyuan,516.137
+1069,India,Panipat,541.235
+1070,United States of America,Palm Bay-Melbourne,514.122
+1071,China,Longyan,519.304
+1072,Ghana,Tamale,605.83
+1073,Saudi Arabia,Khamis Mushayt,518.093
+1074,Democratic Republic of the Congo,Bunia,642.68
+1075,China,Heyuan,522.121
+1076,Belarus,Gomel,483.609
+1077,United Kingdom,Bournemouth/Poole,505.641
+1078,Iran (Islamic Republic of),Bandar Abbas,545.444
+1079,China,Hezhou,586.409
+1080,Russian Federation,Kirov,486.298
+1081,Democratic Republic of the Congo,Kolwezi,519.322
+1082,Netherlands,Utrecht,516.565
+1083,Mexico,Tepic,525.427
+1084,India,Kakinada,526.312
+1085,China,Hengshui,568.045
+1086,Myanmar,Monywa,583.351
+1087,Malaysia,Kota Kinabalu,544.745
+1088,Germany,Duisburg,470.299
+1089,Cuba,Santiago de Cuba,488.773
+1090,Democratic Republic of the Congo,Goma,609.303
+1091,China,Beihai,493.983
+1092,Turkey,Sakarya,527.214
+1093,Italy,Cagliari,477.666
+1094,Nigeria,Lokoja,658.656
+1095,United States of America,Little Rock,506.283
+1096,China,Jingjiang,557.305
+1097,China,"Yiyang, Hunan",540.439
+1098,Mexico,Puerto Vallarta,552.88
+1099,China,Pingdu,518.358
+1100,China,Jiaozhou,539.04
+1101,China,Qianjiang,509.524
+1102,China,Xinyi,540.473
+1103,Egypt,Tanta,504.909
+1104,India,Davangere,515.337
+1105,United Kingdom,Cardiff,494.414
+1106,Mexico,Cuautla Morelos,501.758
+1107,Brazil,Caxias Do Sul,508.724
+1108,Nigeria,Calabar,583.125
+1109,United States of America,Poughkeepsie-Newburgh,499.288
+1110,France,Rouen,476.405
+1111,Brazil,Pôrto Velho,526.663
+1112,Spain,Murcia,491.413
+1113,Italy,Brescia,479.35
+1114,China,Shuozhou,544.368
+1115,United States of America,Greenville,512.114
+1116,China,Zhongxiang,493.278
+1117,Italy,Como,476.752
+1118,France,Strasbourg,479.064
+1119,Poland,Gdańsk,464.763
+1120,France,Avignon,483.272
+1121,Russian Federation,Cheboksary,463.073
+1122,Italy,Taranto,462.331
+1123,Philippines,Iloilo City,491.669
+1124,Chile,La Serena-Coquimbo,512.347
+1125,Indonesia,Mataram,520.003
+1126,India,Bellary,514.237
+1127,Turkey,Kahramanmaras,495.153
+1128,China,Haining,513.928
+1129,China,Sihui,553.452
+1130,Albania,Tiranë (Tirana),504.598
+1131,Honduras,Choloma,625.523
+1132,China,Shizuishan,504.661
+1133,China,Taishan,511.074
+1134,Yemen,Ibb,592.12
+1135,Mexico,Orizaba,478.083
+1136,Chile,Antofagasta,510.98
+1137,Ukraine,Mariupol,435.427
+1138,China,Xinmi,542.455
+1139,China,Guangyuan,519.314
+1140,Brazil,Macapá,508.347
+1141,China,Chuzhou,508.226
+1142,Jordan,Zarqa,458.11
+1143,United States of America,Lancaster,486.86
+1144,Colombia,Manizales,472.908
+1145,Morocco,Kénitra,501.166
+1146,United States of America,Winston-Salem,494.071
+1147,Mozambique,Beira,486.17
+1148,United Arab Emirates,Al-Ain,471.937
+1149,Brazil,Campos dos Goytacazes,473.652
+1150,Philippines,Lapu-Lapu City,534.829
+1151,Brazil,Volta Redonda,463.004
+1152,United States of America,Reno,490.61
+1153,China,Longkou,506.202
+1154,United States of America,Port St. Lucie,500.271
+1155,Sudan,Port Sudan (Bur Sudan),498.693
+1156,United Republic of Tanzania,Mbeya,573.294
+1157,China,Shangyu,498.987
+1158,United States of America,Madison,478.664
+1159,Peru,Piura,487.562
+1160,China,Qingzhou,505.037
+1161,United Republic of Tanzania,Arusha,522.917
+1162,Iraq,Amara,506.577
+1163,Democratic Republic of the Congo,Uvira,567.314
+1164,Pakistan,Rahim Yar Khan,521.998
+1165,China,Jinjiang,490.057
+1166,China,Yongkang,507.701
+1167,China,Chaohu,480.978
+1168,China,Zhaodong,522.474
+1169,Malaysia,Kuantan,499.668
+1170,Nigeria,Ogbomosho,553.055
+1171,India,Akola,464.571
+1172,India,Bhagalpur,478.802
+1173,Nigeria,Abakaliki,566.24
+1174,Pakistan,Jhang,493.47
+1175,India,Muzaffarpur,493.322
+1176,China,Jingmen,482.702
+1177,China,Sanhe,537.255
+1178,Japan,Matsuyama,443.803
+1179,Republic of Korea,Uijeongbu,457.811
+1180,Belgium,Gent,447.386
+1181,Peru,Iquitos,476.988
+1182,China,Wafangdian ,462.0
+1183,China,Dali,501.066
+1184,Egypt,Asyut,464.368
+1185,China,Cenxi,528.658
+1186,Russian Federation,Ulan-Ude,450.776
+1187,Turkey,Malatya,448.113
+1188,Russian Federation,"Kaliningrad, Kaliningrad Oblast",430.104
+1189,China,Ziyang,486.976
+1190,China,Yanan,524.953
+1191,Republic of Korea,Siheung,453.03
+1192,China,Gongyi,493.699
+1193,Bangladesh,Mymensingh,478.717
+1194,Spain,Palma,457.786
+1195,Afghanistan,Kandahar,497.85
+1196,China,Enshi,540.045
+1197,Mexico,Irapuato,470.681
+1198,Democratic Republic of the Congo,Kikwit,507.612
+1199,Algeria,Qacentina,439.526
+1200,Indonesia,Manado,459.418
+1201,Brazil,Petrolina,465.537
+1202,Mexico,Nuevo Laredo,464.919
+1203,Indonesia,Ambon,523.472
+1204,Russian Federation,Stavropol,443.714
+1205,Iraq,Baaqoobah,501.611
+1206,India,Latur,476.151
+1207,Cameroon,Bamenda,509.119
+1208,Philippines,Basilan City (including City of Isabela),457.789
+1209,United States of America,Victorville-Hesperia-Apple Valley,502.457
+1210,Australia,Canberra,465.031
+1211,Iran (Islamic Republic of),Sanandaj,486.06
+1212,Malaysia,Seremban,474.252
+1213,Paraguay,Ciudad del Este,499.446
+1214,India,Yamunanagar,469.383
+1215,India,Kottayam,493.365
+1216,Sudan,Al Obeid (Al Ubayyid),487.759
+1217,Italy,Caserta,427.626
+1218,Ukraine,Lugansk,403.198
+1219,China,Zhangye,445.178
+1220,China,Gaozhou,505.905
+1221,China,Jianyang,474.105
+1222,Italy,Latina,440.597
+1223,United States of America,Spokane,442.808
+1224,Nigeria,Gombe,515.04
+1225,Iran (Islamic Republic of),Zanjan,459.765
+1226,United States of America,Syracuse,424.647
+1227,Kazakhstan,Aktyubinsk,452.805
+1228,China,Suizhou,446.059
+1229,Mexico,Mazatlán,449.373
+1230,China,Laixi,484.22
+1231,United States of America,Augusta-Richmond County,439.737
+1232,Russian Federation,Kursk,414.487
+1233,Colombia,Valledupar,463.878
+1234,Iran (Islamic Republic of),Eslamshahr,452.4
+1235,Argentina,Resistencia,433.749
+1236,Italy,Salerno,420.014
+1237,Syrian Arab Republic,Deir El-Zor(Deir ez-Zor),513.065
+1238,France,Montpellier,439.215
+1239,China,Gaoyou,484.88
+1240,India,Rohtak,461.544
+1241,Colombia,Buenaventura,463.718
+1242,United States of America,Lancaster-Palmdale,468.824
+1243,Peru,Cusco,452.564
+1244,Bahrain,Al-Manamah (Manama),478.0
+1245,United States of America,Kissimmee,491.309
+1246,China,Fengcheng,445.549
+1247,United States of America,Daytona Beach-Port Orange,458.323
+1248,China,Meishan,472.745
+1249,Turkey,Van,448.716
+1250,Algeria,Blida,472.975
+1251,Thailand,Nonthaburi,445.778
+1252,China,Anshun,481.141
+1253,China,Changning,484.677
+1254,Bangladesh,Barisal,486.332
+1255,China,Liyang,450.845
+1256,Poland,Szczecin,409.726
+1257,Brazil,São José do Rio Preto,429.987
+1258,Nigeria,Okene,481.178
+1259,Pakistan,Mardan,466.289
+1260,Pakistan,Gujrat,463.323
+1261,United States of America,Denton-Lewisville,437.216
+1262,Russian Federation,Bryansk,389.197
+1263,Iraq,Diwaniyah,466.154
+1264,Canada,Halifax,424.0
+1265,China,Chuxiong,477.062
+1266,United States of America,Indio-Cathedral City-Palm Springs,450.685
+1267,United States of America,Stockton,430.598
+1268,Iran (Islamic Republic of),Qazvin,435.386
+1269,Nigeria,Igbidu,471.046
+1270,Uzbekistan,Andizhan,435.864
+1271,Nigeria,Ado-Ekiti,489.368
+1272,United States of America,Chattanooga,419.665
+1273,Slovakia,Bratislava,388.197
+1274,India,Bhilwara,450.09
+1275,United States of America,The Woodlands,556.282
+1276,Russian Federation,Magnitogorsk,386.457
+1277,India,Sagar,439.119
+1278,Colombia,Armenia,428.311
+1279,China,Kelamayi,447.535
+1280,India,Shillong,452.762
+1281,Russian Federation,Tver,388.644
+1282,Argentina,Santiago Del Estero,421.796
+1283,United States of America,Boise City,435.173
+1284,China,Shanwei,428.519
+1285,India,Roorkee,544.108
+1286,China,Tieling,416.816
+1287,China,Dafeng,446.768
+1288,India,Santipur,520.373
+1289,India,Anantapur,457.158
+1290,Nigeria,Katsina,479.566
+1291,Jordan,Ar-Rusayfah,457.335
+1292,India,Ahmadnagar,420.643
+1293,China,Bayannaoer,436.217
+1294,China,Dengfeng,497.281
+1295,Russian Federation,Ivanovo,373.425
+1296,Canada,St. Catharines-Niagara,401.11
+1297,Belgium,Charleroi,397.232
+1298,India,Dhule,418.738
+1299,Japan,Utsunomiya,396.779
+1300,Estonia,Tallinn,388.113
+1301,Brazil,Maringá,425.999
+1302,Czech Republic,Brno,399.674
+1303,Spain,Las Palmas Gran Canaria,401.524
+1304,China,Yongcheng,454.257
+1305,China,Suihua,420.819
+1306,United States of America,Fayetteville-Springdale,467.976
+1307,China,Guang'an,460.45
+1308,Algeria,El Djelfa,484.437
+1309,India,Brahmapur,430.022
+1310,India,Korba,421.667
+1311,Japan,Kanazawa,395.298
+1312,India,Kadapa,438.716
+1313,China,Yanshi,474.161
+1314,Brazil,Campina Grande,405.525
+1315,United States of America,"Jackson, Mississippi",413.855
+1316,China,Laizhou,400.858
+1317,Venezuela (Bolivarian Republic of),Ciudad Bolivar,418.647
+1318,China,Yixing,426.093
+1319,Nigeria,Minna,460.922
+1320,Indonesia,Yogyakarta,401.936
+1321,United States of America,Modesto,407.129
+1322,China,Xinzheng,433.158
+1323,China,Yingde,424.599
+1324,China,Kaiping,404.853
+1325,China,Fuan,442.597
+1326,Argentina,Corrientes,407.25
+1327,China,Yuxi,461.562
+1328,Somalia,Berbera,443.926
+1329,China,Rongcheng,408.989
+1330,New Zealand,Wellington,401.045
+1331,United States of America,Oxnard,397.818
+1332,South Africa,Rustenburg,458.632
+1333,United States of America,Durham,411.234
+1334,India,Rampur,424.863
+1335,Thailand,Lampang,474.018
+1336,Turkey,Erzurum,391.22
+1337,China,Baiyin,407.479
+1338,United Kingdom,Teeside (Middlesbrough),393.482
+1339,Nigeria,Gboko,454.907
+1340,China,Xuancheng,446.046
+1341,India,Alwar,426.654
+1342,Venezuela (Bolivarian Republic of),Guarenas-Guatire,410.184
+1343,India,English Bazar,442.858
+1344,United States of America,Scranton,381.775
+1345,Syrian Arab Republic,Al-Kamishli,460.78
+1346,Canada,Oshawa,403.696
+1347,India,Purnia,453.988
+1348,China,Jingdezhen,399.485
+1349,United Kingdom,Stoke-on-Trent (The Potteries),388.739
+1350,Pakistan,Kasur,427.876
+1351,Iran (Islamic Republic of),Gorgan,438.687
+1352,Nigeria,Ondo,446.961
+1353,Brazil,Piracicaba,396.388
+1354,India,Barddhaman,415.732
+1355,China,Liaoyuan,384.562
+1356,Democratic Republic of the Congo,Mbandaka,444.222
+1357,Peru,Chimbote,404.245
+1358,China,"Ji'an, Jiangxi",423.958
+1359,China,Jiyuan,411.107
+1360,Philippines,Mandaue City,415.334
+1361,China,Keelung,381.987
+1362,Brazil,Montes Claros,401.098
+1363,China,Meizhou,398.983
+1364,Mexico,Minatitlán,393.286
+1365,China,Zhuanghe,442.562
+1366,Australia,Newcastle and Lake Macquarie,398.588
+1367,Egypt,Al-Fayyum,408.135
+1368,Bolivia (Plurinational State of),Sucre,436.273
+1369,United States of America,Youngstown,367.296
+1370,China,Changyi,457.305
+1371,South Africa,Witbank,433.847
+1372,Ukraine,Vinnitsa,377.352
+1373,China,Laiyang,391.677
+1374,Nigeria,Oyo,441.364
+1375,Colombia,Monteria,405.789
+1376,Angola,Lubango,483.746
+1377,Venezuela (Bolivarian Republic of),San Cristóbal,393.092
+1378,China,Shengzhou,399.988
+1379,Bangladesh,Rangpur,419.936
+1380,Niger,Zinder,489.081
+1381,China,"Yulin, Shaanxi",398.143
+1382,United Kingdom,Coventry-Bedworth,384.627
+1383,Iraq,Ramadi,439.662
+1384,United States of America,Bonita Springs-Naples,416.449
+1385,China,Hanzhong,393.327
+1386,Mexico,Coatzacoalcos,391.088
+1387,Namibia,Windhoek,434.776
+1388,Thailand,Nakhon Ratchasima,422.584
+1389,Venezuela (Bolivarian Republic of),El Tigre-San José de Guanipa,431.024
+1390,China,Changge,455.381
+1391,Zimbabwe,Chitungwiza,400.301
+1392,Germany,Bochum,364.368
+1393,France,Saint-Étienne,373.736
+1394,Mexico,Colima,398.786
+1395,Russian Federation,Belgorod,373.246
+1396,Somalia,Kismaayo,420.634
+1397,Argentina,Neuquén-Plottier-Cipolletti,391.356
+1398,Turkey,Batman,403.045
+1399,China,Gaoan,435.235
+1400,Italy,Pescara,375.281
+1401,Iraq,Kut,424.102
+1402,China,Xinyi,397.691
+1403,Uzbekistan,Samarkand,379.495
+1404,Peru,Huancayo,392.114
+1405,Turkey,Elazig,393.596
+1406,India,Bijapur,408.938
+1407,Colombia,Pasto,383.784
+1408,China,Chizhou,438.474
+1409,Yemen,Al-Mukalla,466.829
+1410,Republic of Korea,Gumi,385.913
+1411,Philippines,Angeles City,398.528
+1412,Russian Federation,Vladimir,373.938
+1413,China,Xingning,451.666
+1414,China,Wuwei,395.988
+1415,China,Shangrao,425.356
+1416,China,Linqing,386.1
+1417,Chile,Temuco,394.971
+1418,India,Begusarai,493.445
+1419,Cameroon,Loum,460.781
+1420,Ecuador,Cuenca,397.914
+1421,China,Linzhou,400.91
+1422,China,Jurong,421.219
+1423,India,Hardwar,416.222
+1424,Iran (Islamic Republic of),Khorramabad,381.57
+1425,China,Xiangcheng,446.801
+1426,Poland,Bydgoszcz,359.174
+1427,Switzerland,Bern,372.153
+1428,Philippines,Baguio City,396.117
+1429,Chile,Iquique,411.451
+1430,Brazil,Rio Branco,400.962
+1431,India,Ranipet,468.997
+1432,Brazil,Juazeiro Do Norte,380.949
+1433,Venezuela (Bolivarian Republic of),Cabimas,398.135
+1434,Canada,Victoria,372.978
+1435,India,Shahjahanpur,377.375
+1436,France,Béthune,366.828
+1437,China,Weinan,372.363
+1438,Kazakhstan,Pavlodar,373.06
+1439,Colombia,Neiva,379.35
+1440,China,Laibin,396.389
+1441,India,Junagadh,397.01
+1442,Viet Nam,Hue,393.932
+1443,China,Gongzhuling,375.485
+1444,Saudi Arabia,Ha'il,378.183
+1445,Belarus,Vitebsk,356.092
+1446,Switzerland,Lausanne,374.153
+1447,France,Tours,365.868
+1448,Italy,Treviso,368.712
+1449,India,Hosur,504.53
+1450,China,Lin'an,434.877
+1451,Turkey,Sivas,383.031
+1452,China,Pinghu,418.519
+1453,Brazil,Bauru,366.412
+1454,Algeria,Annaba,374.075
+1455,China,"Lishui, Zhejiang",409.856
+1456,Viet Nam,Vungtau,404.291
+1457,Philippines,Cotabato,424.399
+1458,New Zealand,Christchurch,356.957
+1459,China,Hami,393.604
+1460,Belarus,Mogilev,340.293
+1461,Spain,Bilbao,353.309
+1462,Russian Federation,Sochi,355.682
+1463,United States of America,Flint,352.102
+1464,China,"Xingyi, Guizhou",372.041
+1465,Saudi Arabia,Najran,383.396
+1466,Cameroon,Bafoussam,409.993
+1467,Pakistan,Dera Ghazikhan,409.824
+1468,Venezuela (Bolivarian Republic of),Lagunillas,411.549
+1469,Malaysia,Sandakan,380.894
+1470,Russian Federation,Arkhangelsk,348.433
+1471,Malaysia,Kuala Terengganu,386.786
+1472,Mexico,Zacatecas,384.959
+1473,China,Sanming,373.073
+1474,United States of America,Pensacola,357.7
+1475,Australia,Sunshine Coast,387.063
+1476,China,Pulandian,379.322
+1477,Côte d'Ivoire,San Pedro,449.22
+1478,Iran (Islamic Republic of),Malard,419.056
+1479,Brazil,Anápolis,364.207
+1480,China,Dujiangyan,378.807
+1481,Republic of Korea,Pohang,361.784
+1482,Spain,Alicante,365.086
+1483,India,Dindigul,407.527
+1484,Guinea,Nzérékoré,444.168
+1485,Poland,Lublin,346.206
+1486,India,Shimoga,377.303
+1487,Papua New Guinea,Port Moresby,388.764
+1488,India,Karimnagar,397.307
+1489,Russian Federation,Nizhny Tagil,323.058
+1490,China,Xianning,357.269
+1491,India,Ichalakaranji,372.164
+1492,China,Gaocheng,402.698
+1493,Germany,Wuppertal,341.754
+1494,Italy,Reggio Emilia,361.104
+1495,China,Changji,384.865
+1496,Philippines,Iligan,366.421
+1497,Nigeria,Okpogho,437.817
+1498,Nigeria,Makurdi,415.964
+1499,Dem. People's Republic of Korea,Wonsan,359.125
+1500,Italy,Modena,353.324
+1501,Bulgaria,Varna,352.15
+1502,United Republic of Tanzania,Morogoro,422.434
+1503,China,Akesu,396.485
+1504,Belarus,Grodno,347.608
+1505,Philippines,Batangas City,372.782
+1506,China,Wuchuan ,354.226
+1507,China,Fangchenggang,400.361
+1508,Italy,Barletta,342.464
+1509,China,Dashiqiao,367.297
+1510,Republic of Korea,Gwangmyeong,350.557
+1511,Bulgaria,Plovdiv,334.166
+1512,Kazakhstan,Semipalatinsk,354.98
+1513,India,Habra,378.368
+1514,Afghanistan,Herat,391.736
+1515,Mexico,Córdoba,359.615
+1516,Mexico,Ciudad Victoria,367.5
+1517,Germany,Bonn,348.551
+1518,Sudan,Wad Medani,383.519
+1519,Democratic Republic of the Congo,Matadi,393.297
+1520,United States of America,Greensboro,357.701
+1521,Egypt,Az-Zaqazig,361.229
+1522,Venezuela (Bolivarian Republic of),Cumana,364.093
+1523,China,Huangshan,385.301
+1524,Mexico,Monclova,355.748
+1525,Sudan,Kassala,375.846
+1526,France,Valenciennes,343.855
+1527,Kenya,Nakuru,395.808
+1528,Spain,Cordoba,344.014
+1529,China,Nankang,396.788
+1530,Netherlands,Eindhoven,348.475
+1531,United Kingdom,Sunderland,341.141
+1532,Ukraine,Sevastopol,330.943
+1533,Japan,Oita,340.257
+1534,India,Tumkur,370.154
+1535,United States of America,Corpus Christi,347.122
+1536,United States of America,Huntsville,371.392
+1537,Ukraine,Simferopol,328.543
+1538,Venezuela (Bolivarian Republic of),Barinas,374.909
+1539,Philippines,Butuan,358.372
+1540,Republic of Korea,Jeju,346.437
+1541,China,Tongcheng,396.641
+1542,Thailand,Rayong,428.781
+1543,Cameroon,Mbouda,440.606
+1544,Mexico,Ciudad Obregón,363.239
+1545,China,Qufu,364.033
+1546,Ukraine,Makeyevka,311.572
+1547,India,Chandrapur,351.992
+1548,Nigeria,Ife,388.884
+1549,Pakistan,Nawabshah,385.423
+1550,Brazil,Boa Vista,376.832
+1551,Iran (Islamic Republic of),Qods,391.111
+1552,Argentina,San Salvador de Jujuy,348.994
+1553,China,Heshan,378.982
+1554,India,Thanjavur,376.886
+1555,India,Parbhani,361.56
+1556,Egypt,Al-Ismailiyah,355.914
+1557,Azerbaijan,Sumquayit,346.689
+1558,United States of America,Mobile,336.713
+1559,India,Bihar Sharif,370.215
+1560,Nepal,Pokhara,405.496
+1561,United States of America,Round Lake Beach-McHenry-Grayslake,360.929
+1562,France,Rennes,350.899
+1563,Mexico,Tehuacán,359.502
+1564,China,Lvliang,409.589
+1565,United States of America,Fayetteville,345.304
+1566,Nigeria,Effon Alaiye,394.246
+1567,Brazil,Franca,344.269
+1568,United Kingdom,Birkenhead,336.575
+1569,India,Hisar,356.922
+1570,Romania,Cluj-Napoca,334.984
+1571,Russian Federation,Chita,328.871
+1572,United States of America,Fort Wayne,340.134
+1573,Madagascar,Toamasina,422.324
+1574,China,Hejian,412.919
+1575,Russian Federation,Smolensk,325.972
+1576,Indonesia,Sukabumi,363.03
+1577,Dem. People's Republic of Korea,Sinuiju,335.509
+1578,China,Donggang,363.39
+1579,China,Yining,354.068
+1580,India,Palakkad,365.462
+1581,Russian Federation,Kurgan,313.034
+1582,Turkey,Manisa,354.647
+1583,Iran (Islamic Republic of),Sari,364.955
+1584,United Kingdom,Reading-Wokingham,337.875
+1585,Argentina,Bahia Blanca,343.79
+1586,China,Macheng,351.366
+1587,United Kingdom,Preston,340.329
+1588,Venezuela (Bolivarian Republic of),Merida,347.43
+1589,Brazil,Ponta Grossa,343.282
+1590,China,Xingyang,379.875
+1591,India,Darbhanga,351.505
+1592,Indonesia,Bengkulu,351.604
+1593,Azerbaijan,Gäncä,334.488
+1594,Finland,Tampere,337.665
+1595,Pakistan,Wah,370.151
+1596,Philippines,Lipa City,360.579
+1597,United Arab Emirates,Ajman,368.601
+1598,India,Aizawl,361.878
+1599,Iraq,Faloojah,384.133
+1600,India,Anand,365.325
+1601,Malaysia,Kota Bharu,352.42
+1602,China,Xinzhou,364.418
+1603,Germany,Bielefeld,322.275
+1604,Venezuela (Bolivarian Republic of),Punto Fijo,361.688
+1605,South Sudan,Juba,397.413
+1606,Japan,Naha,326.452
+1607,India,Bathinda,363.707
+1608,Kenya,Eldoret,397.104
+1609,India,Nizamabad,341.185
+1610,Belarus,Brest,327.83
+1611,United States of America,Santa Clarita,371.079
+1612,China,Shihezi,334.723
+1613,China,Luoding,357.762
+1614,United States of America,Santa Rosa,332.0
+1615,Romania,Timisoara,325.881
+1616,United States of America,Lansing,328.459
+1617,United Kingdom,Kingston upon Hull,330.787
+1618,South Africa,East London,342.32
+1619,Brazil,Blumenau,341.195
+1620,Germany,Mannheim,325.779
+1621,India,Dewas,355.615
+1622,Russian Federation,Surgut,326.882
+1623,Bosnia and Herzegovina,Sarajevo,313.868
+1624,Pakistan,Okara,362.01
+1625,Italy,Nola,324.927
+1626,Thailand,Hat Yai,360.241
+1627,Sudan,Al Gadarif,364.036
+1628,Russian Federation,Kaluga,306.181
+1629,United States of America,Ann Arbor,329.093
+1630,Argentina,Posadas,331.555
+1631,United States of America,Asheville,345.796
+1632,China,Botou,375.154
+1633,Ecuador,Santo Domingo,365.822
+1634,Japan,Nagasaki,309.231
+1635,Egypt,Kafr-ad-Dawwar,343.964
+1636,Canada,Windsor,318.389
+1637,Brazil,Caruaru,346.648
+1638,Russian Federation,Volzhsky,315.674
+1639,Cuba,Camaguey,318.761
+1640,India,Maunath Bhanjan,357.89
+1641,China,Leping,346.306
+1642,Ethiopia,Mekele,399.254
+1643,China,Yushu,350.145
+1644,United States of America,Antioch,344.206
+1645,Italy,Parma,325.552
+1646,United Kingdom,Newport,326.001
+1647,Brazil,Uberaba,335.795
+1648,India,Farrukhabad,344.706
+1649,Italy,Vicenza,324.124
+1650,Egypt,Aswan,343.903
+1651,United States of America,Trenton,327.861
+1652,Japan,Asahikawa,308.999
+1653,Viet Nam,Nha Trang,332.027
+1654,India,Baharampur,329.519
+1655,United States of America,Lexington-Fayette,331.234
+1656,Kazakhstan,Ust-Kamenogorsk,313.226
+1657,Morocco,Safi,334.902
+1658,Russian Federation,Cherepovets,310.329
+1659,Russian Federation,Yakutsk,343.417
+1660,China,Zhaoyuan,343.158
+1661,China,Sanmenxia,340.274
+1662,United States of America,Rockford,324.226
+1663,United States of America,Shreveport,322.345
+1664,Turkmenistan,Tashauz,351.06
+1665,Indonesia,Cirebon,335.589
+1666,Saudi Arabia,Hafar al-Batin,333.319
+1667,United States of America,"Springfield, Missouri",338.738
+1668,China,Baicheng,332.873
+1669,India,Jalna,341.473
+1670,India,Satna,343.403
+1671,United Kingdom,Swansea,322.913
+1672,China,Yuanjiang,340.078
+1673,Venezuela (Bolivarian Republic of),Acarigua-Aruare,338.626
+1674,Spain,Valladolid,309.361
+1675,Kazakhstan,Taraz,299.674
+1676,Russian Federation,Vladikavkaz,301.493
+1677,China,Kaili,343.802
+1678,Brazil,Pelotas,313.888
+1679,Russian Federation,Orel,293.465
+1680,Turkey,Izmit,315.142
+1681,India,Navsari,339.429
+1682,Algeria,Batna,338.079
+1683,Cuba,Holguin,316.62
+1684,Russian Federation,Vologda,308.805
+1685,Republic of Korea,Gimhae,317.82
+1686,Jordan,Irbid,319.253
+1687,Germany,Karlsruhe,314.507
+1688,Germany,Muenster (Westfalen),319.76
+1689,United Kingdom,Southend-On-Sea,317.89
+1690,Puerto Rico,Aguadilla-Isabela-San Sebastian,301.944
+1691,Poland,Katowice,300.059
