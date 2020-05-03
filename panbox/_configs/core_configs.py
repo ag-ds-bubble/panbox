@@ -14,3 +14,7 @@ longdoc = """Python Package containing Epidemiological model and Simulations"""
 
 SUB = str.maketrans("0123456789", "₀₁₂₃₄₅₆₇₈₉")
 SUP = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+
+from os.path import dirname, abspath
+ROOT_PATH = dirname(dirname(__file__))
+

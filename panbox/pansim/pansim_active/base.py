@@ -1,12 +1,13 @@
 from ..pansim_view.pansim_view_handler import PanSimViewHandler
 import pandas as pd
 import numpy as np
+from ..._configs.pansim_configs import ROOT_PATH
 
 class ActiveBase:
 
     def __init__(self):
         self.pansimData = {}
-        density_data = pd.read_csv('panbox/panbox/_animutils/population_density.csv', index_col=0)
+        density_data = pd.read_csv(ROOT_PATH+'/_animutils/population_density.csv', index_col=0)
         density_data['Population_Density'] = (density_data['Population_Density']/density_data['Population_Density'].max())*1000
         self.pansimData['popdensity_data'] = density_data
         self.pansimView = PanSimViewHandler()
