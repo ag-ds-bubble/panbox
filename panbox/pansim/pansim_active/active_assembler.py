@@ -47,3 +47,5 @@ class PanSimAssembler(ActiveSimController):
         self.pansimView.S2_reset_BTN.on_click(self.onclick_resetbtn)
 
         return  self.pansimView.layoutPanSimView()
+
+

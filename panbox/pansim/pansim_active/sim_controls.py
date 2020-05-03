@@ -26,13 +26,23 @@ class ActiveSimController(ActiveBase):
         self.pansimView.S2_L1_state_DD.options = self.states
         self.pansimView.S2_L1_state_DD.value = self.state
 
+    def update_dynamic_params(self, change):
+        # self.intervene_after_days = self.pansimView.S2_L3_interventionday_BIT.value
+
+        if 'simulatorHandler' in self.__dir__():
+
+            self.simulatorHandler.update_dynamic_params(_infect_radii = self.infection_radius, _fatality_rate = self.fatality_rate,
+                                                        _trans_proba = self.transmission_probab, _incub_period = self.incubation_period,
+                                                        _quarantine_after = 2, _asympt_pct = self.asymptomatic_percent, 
+                                                        _social_distancing_factor = self.socialdistancing_reulsiveforce, _travel_radii = self.travelling_radius)
+
+
 
     def update_popdensity(self, change):
 
         _popdensity = self.pansimData['popdensity_data'].set_index('Country').loc[self.country].set_index('State').loc[self.pansimView.S2_L1_state_DD.value]
         self.population_density = _popdensity['Population_Density']
         self.pansimView.S2_L1_popdensity_FS.value = self.population_density
-
 
     def onclick_playbtn(self, change):
         
@@ -60,11 +70,11 @@ class ActiveSimController(ActiveBase):
             self.simulatorHandler.ani.event_source.start()
             self.animstatus = 'playing'
 
-
     def onclick_pausebtn(self, change):
         self.simulatorHandler.ani.event_source.stop()
         self.animstatus = 'paused'
         
+
 
     def onclick_resetbtn(self, change):
         self.reset_widgets()
@@ -82,17 +92,3 @@ class ActiveSimController(ActiveBase):
             clear_output(wait=True)
             display('Simulation Stopped')
 
-
-    def update_dynamic_params(self, change):
-        # self.intervene_after_days = self.pansimView.S2_L3_interventionday_BIT.value
-
-        if 'simulatorHandler' in self.__dir__():
-
-            self.simulatorHandler.update_dynamic_params(_infect_radii = self.infection_radius, _fatality_rate = self.fatality_rate,
-                                                        _trans_proba = self.transmission_probab, _incub_period = self.incubation_period,
-                                                        _quarantine_after = 2, _asympt_pct = self.asymptomatic_percent, 
-                                                        _social_distancing_factor = self.socialdistancing_reulsiveforce, _travel_radii = self.travelling_radius)
-
-
-
-    
