@@ -1,10 +1,3 @@
 # PanBox
-Python Package containing Epidemiological model and Simulations
-****
-
-
-
-
-
-
+Python Package for Epidemiological model and Simulations
 ****

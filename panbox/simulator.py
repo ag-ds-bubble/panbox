@@ -12,12 +12,12 @@ This widget has conntrolling parameters for:-
     - Counter Measures
 """
 
-from .pansim.pansim_active.active_assembler import PanSimAssembler
+from .pansim.pansim_active.active_assembler import PanSimAssembler as _PanSimAssembler
 
 
 class PanSim:
     def __init__(self):
-        self.panSimAssembler = PanSimAssembler()
+        self.panSimAssembler = _PanSimAssembler()
 
     # Simulator
     def assemblePanSim(self):

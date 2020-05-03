@@ -6,8 +6,8 @@ class ActiveBase:
 
     def __init__(self):
         self.pansimData = {}
-        density_data = pd.read_csv('panbox/_animutils/population_density.csv', index_col=0)
-        density_data['Population_Density'] = (density_data['Population_Density']/density_data['Population_Density'].max())*1500
+        density_data = pd.read_csv('panbox/panbox/_animutils/population_density.csv', index_col=0)
+        density_data['Population_Density'] = (density_data['Population_Density']/density_data['Population_Density'].max())*1000
         self.pansimData['popdensity_data'] = density_data
         self.pansimView = PanSimViewHandler()
 
@@ -60,7 +60,7 @@ class ActiveBase:
         self.pansimView.S2_L1_msperday_IS.value = 5
         self.pansimView.S2_L1_msperday_IS.max = 30
 
-        self.pansimView.S2_L1_popdensity_FS.max = 1500
+        self.pansimView.S2_L1_popdensity_FS.max = 1000
         self.pansimView.S2_L1_popdensity_FS.min = 10
         self.pansimView.S2_L1_popdensity_FS.value = _popdensity
 
@@ -108,7 +108,7 @@ class ActiveBase:
 
         self.pansimView.S2_L3_interventionday_BIT.min = 0
         self.pansimView.S2_L3_interventionday_BIT.value = 10
-        self.pansimView.S2_L3_interventionday_BIT.max = 1500
+        self.pansimView.S2_L3_interventionday_BIT.max = 100
 
         self.pansimView.S2_L3_transproobafter_FS.min = 0.0
         self.pansimView.S2_L3_transproobafter_FS.value = 0.5
