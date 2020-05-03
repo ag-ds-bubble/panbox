@@ -17,7 +17,7 @@ pip install -i https://test.pypi.org/simple/ panbox
 The constitution of this package dissimates into two segments,
 - ### Simulator
 - ### Models
-=============
+============================================================================
 
 
 <ins>Simulator</ins>
@@ -27,7 +27,7 @@ PanSim, as seen in the first GIF, is an interactive Jupyter Notebook mwidget tha
 <ins>Models</ins>
 
 The models included in this package are based on Oridinary Differential Equations that are build for 
-![Model Atrributes](ModelProcess.jpg)
+![Model Atrributes](utils/Images/ModelProcess.jpg)
 
 These models take in Time Dependent parameters into the Differential Equaation Solver, such as Contact Rate, Transmission Probability.
 
@@ -57,7 +57,8 @@ Once done with the model setup, attributes provided by the  `Model Handler` *sir
 
 > sirModel.setup_report() # Sets up the report for you to visualise side-by-side as the parameters chage
 
-![Model Atrributes](sir_setup_report.jpg).
+![SIR Model](utils/Images/sir_setup_report.jpg)
+![SItaRrd](utils/Images/sitarrd_setup_report.jpg)
 
 > sirModel.simulate_model() # Simulate the growth of the model.
 
