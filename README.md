@@ -1,5 +1,5 @@
 [include badges]
-<img style="float: right;" src="utils/Images/panbox_logo.jpg" width="130" height="137">
+<img style="float: right;" src="utils/Images/panbox_logo.jpg" width="130" height="137" align="right">
 # PanBox
 <ins>Python Package for Epidemiological Modellig and Simulation</ins>
 ****
