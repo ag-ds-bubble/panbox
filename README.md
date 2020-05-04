@@ -1,6 +1,5 @@
 [include badges]
-<img src="https://image.flaticon.com/icons/svg/2798/2798963.svg" align="right"
-     alt="" width="120" height="178">
+<img style="float: right;" src="utils/Images/panbox_logo.jpg" width="130" height="137">
 # PanBox
 <ins>Python Package for Epidemiological Modellig and Simulation</ins>
 ****
